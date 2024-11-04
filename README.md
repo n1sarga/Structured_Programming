@@ -1,9 +1,12 @@
 # N.J.N. Super Shop Management System
-A simple, console-based Super Shop Management System built in C. This application allows both admins and users to interact with a shop's product inventory. Users can view available products, purchase items, and receive a receipt. Admins can log in to manage inventory, view product lists, add new products, and delete products.
+In the CSE103 course, a console-based Super Shop Management System was built in C. This application allows both admins and users to interact with a shop's product inventory. Users can view available products, purchase items, and receive a receipt. Admins can log in to manage inventory, view product lists, add new products, and delete products.
+
+## Acknowledgement
+This project was completed by Nisarga Mridha (me), Junayed Bin Islam, and Nazia Zaman. The project name was chosen based on the initial alphabets of our names.
 
 ## Features
 ### User Mode
-- **View Products**: Displays available products and their details (code, name, quantity, and price).
+- **View Products**: Displays available products and their details (product code, product name, quantity, and price).
 - **Purchase Products**: Allows users to enter the product code and quantity to make a purchase.
 - **Generate Receipt**: Generates a receipt showing the total price and buyer details.
 
@@ -22,3 +25,5 @@ After running the program, the user will be presented with the main menu, where:
  - **Password**: (`njn12345`)
 2. **Purchase Products as User**
 3. **Exit**
+
+![C](https://img.icons8.com/color/48/000000/c-programming.png)
