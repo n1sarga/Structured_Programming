@@ -14,3 +14,11 @@ A simple, console-based Super Shop Management System built in C. This applicatio
 
 ### File Management
 - **Product Data Storage**: Product data is stored in a text file (`Product.txt`) and is updated when products are added or deleted by the admin.
+
+## Usage
+After running the program, the user will be presented with the main menu, where:
+- **Login as Admin**:
+- -**Email**: (`njn@supershp.com.bd`)
+- -**Password**: (`njn12345`)
+- **Purchase Products as User**
+- **Exit**
