@@ -27,4 +27,3 @@ After running the program, the user will be presented with the main menu, where:
 3. **Exit**
 
 ![C](https://img.shields.io/badge/language-C-blue)
-![C](https://img.icons8.com/color/48/000000/c-programming.png)
