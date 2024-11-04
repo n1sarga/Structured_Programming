@@ -18,7 +18,7 @@ A simple, console-based Super Shop Management System built in C. This applicatio
 ## Usage
 After running the program, the user will be presented with the main menu, where:
 1. **Login as Admin**:
-  -**Email**: (`njn@supershp.com.bd`)
-  -**Password**: (`njn12345`)
+ - **Email**: (`njn@supershp.com.bd`)
+ - **Password**: (`njn12345`)
 2. **Purchase Products as User**
 3. **Exit**
