@@ -5,6 +5,6 @@ In the CSE103 (Structured Programming) course, a console-based Super Shop Manage
 - **Product Data Storage**: Product data is stored in a text file (`Product.txt`) and is updated when products are added or deleted by the admin.
 
 ### Acknowledgement
-This project was completed by Nisarga Mridha (me), Junayed Bin Islam, and Nazia Zaman. The project name was chosen based on the initial alphabets of our names.
+This project was completed by Nisarga Mridha (me), Junayed Bin Islam, and [Nazia Zaman](https://github.com/NZR19). The project name was chosen based on the initial alphabets of our names.
 
 ![C](https://img.shields.io/badge/language-C-blue)
